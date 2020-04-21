@@ -1,6 +1,6 @@
 {
   "pipeline": {
-    "name": "split"
+    "name": "split2"
   },
   "transform": {
     "image": "pachyderm/gh-sum:v1",
