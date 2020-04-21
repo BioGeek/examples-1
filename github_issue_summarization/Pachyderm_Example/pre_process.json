@@ -16,7 +16,7 @@
   },
   "input": {
     "pfs": {
-      "repo": "split",
+      "repo": "split2",
       "glob": "/"
     }
   }
